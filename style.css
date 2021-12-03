@@ -11,6 +11,15 @@ body {
 	margin: 0px;
 }
 
+.mark {
+    font-size: small;
+    border:
+        #2F2E41 solid 1px;
+    padding: 5px;
+    border-radius: 0.5rem;
+
+}
+
 hr {
 	margin: 2rem 0rem;
 }
@@ -94,6 +103,10 @@ hr {
 	color: var(--dark-gray);
 	padding-top: 1rem;
 	text-align: center;
+}
+
+.date{
+	font-size: small;
 }
 
 /* section */

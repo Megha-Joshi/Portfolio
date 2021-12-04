@@ -141,6 +141,10 @@ hr {
 	font-weight: bold;
 	font-size: large;
 }
+.footer ul {
+    padding-inline-start: 0px;
+
+}
 
 .non-bullet-list {
 	list-style: none;
@@ -148,7 +152,7 @@ hr {
 
 .inline-list-item {
 	display: inline;
-	padding: 50rem 0.5rem;
+	padding: 0rem 0.5rem;
 }
 
 .link-app {
@@ -156,3 +160,4 @@ hr {
 	font-size: 3rem;
 	text-align: center;
 }
+
